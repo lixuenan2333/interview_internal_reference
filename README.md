@@ -929,10 +929,9 @@
 
 ---
 
-**每天晚上8点免费技术分享直播，扫码即可加入，小姐姐给你发每天的直播链接，备注"github面试"** <br/>
-**若网络问题，二维码无法显示，可撩小姐姐wx: yy3007537140**
+#### 关注微信公众号【后台服务架构师】——【联系我们】，获取本repo最全PDF学习文档！
 
-<img src = "contact.jpg" />
+<img width="65%" height="65%" src="https://user-images.githubusercontent.com/87457873/130796999-03af3f54-3719-47b4-8e41-2e762ab1c68b.png"/>
 
 
 ## 鸣谢
